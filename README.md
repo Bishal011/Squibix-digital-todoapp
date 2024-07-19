@@ -1,3 +1,8 @@
+# Live Project URL
+
+https://mytaskfocuslist.netlify.app/
+
+
 # Vite React Project
 
 This repository contains a project set up with Vite, React, and Tailwind CSS. Follow the instructions below to get the project up and running on your local machine.
