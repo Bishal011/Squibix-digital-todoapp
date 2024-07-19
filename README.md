@@ -7,8 +7,6 @@ This repository contains a project set up with Vite, React, and Tailwind CSS. Fo
 - [Installation](#installation)
 - [Usage](#usage)
 - [Scripts](#scripts)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
